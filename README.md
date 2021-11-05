@@ -1,2 +1,2 @@
-# Tricksterra.github.io
+# Никита Банкет
 Мой первый сайт
